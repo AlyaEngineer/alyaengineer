@@ -9,7 +9,7 @@ Completed an intensive JS/Front-end program at [RS School](https://rs.school/) w
 
 - 💬 Ask me about: building SPA/SSR apps with React & Next.js, API integration, state management and frontend testing.
 
-- 💅 Projects: [Poster Store](https://poster-store.netlify.app/) - eCommerce SPA with Commercetools integration, [Pawstman](https://pawstman.vercel.app/en) - lightweight REST API testing client, [Rick & Morty Explorer](https://alyaengineer-react2025q3-search-panel.netlify.app/ru) - SPA/SSR search application built with Next.js.
+- 💅 **Projects:** [Poster Store](https://poster-store.netlify.app/) - eCommerce SPA with Commercetools integration, [Pawstman](https://pawstman.vercel.app/en) - lightweight REST API testing client, [Rick & Morty Explorer](https://alyaengineer-react2025q3-search-panel.netlify.app/ru) - SPA/SSR search application built with Next.js.
 
 ### 🛠 Tech stack
 
