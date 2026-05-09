@@ -5,7 +5,7 @@ Completed an intensive JS/Front-end program at [RS School](https://rs.school/) w
 
 - 👩‍💻 **I'm currently looking for: a Junior/Junior+ Frontend Developer position (Remote)**.
 
-- 🧠 I'm currently learning: Vue 3 (Composition API) and creating immersive 3D experiences with Three.js & React Three Fiber.
+- 🧠 I'm currently creating immersive 3D experiences with Three.js & React Three Fiber.
 
 - 💬 Ask me about: building SPA/SSR apps with React & Next.js, API integration, state management and frontend testing.
 
