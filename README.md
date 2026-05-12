@@ -3,11 +3,11 @@
 #### Junior Frontend Developer building modern web applications with React and Next.js.
 Completed an intensive JS/Front-end program at [RS School](https://rs.school/) where I built several SPA and SSR projects with authentication, API integration and testing.
 
-- 👩‍💻 **I'm currently looking for: a Junior/Junior+ Frontend Developer position (Remote)**.
+- 👩‍💻 **I'm currently looking for a Junior/Junior+ Frontend Developer position (Remote)**.
 
-- 🧠 I'm currently creating immersive 3D experiences with Three.js & React Three Fiber.
+- 🧠 I'm currently learning Three.js & React Three Fiber.
 
-- 💬 Ask me about: building SPA/SSR apps with React & Next.js, API integration, state management and frontend testing.
+- 💬 Ask me about building SPA/SSR apps with React & Next.js, API integration, state management and frontend testing.
 
 - 💅 **Projects:** [Poster Store](https://poster-store.netlify.app/) - eCommerce SPA with Commercetools integration, [Pawstman](https://pawstman.vercel.app/en) - lightweight REST API testing client, [Rick & Morty Explorer](https://alyaengineer-react2025q3-search-panel.netlify.app/ru) - SPA/SSR search application built with Next.js.
 
