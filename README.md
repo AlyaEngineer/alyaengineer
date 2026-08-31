@@ -9,7 +9,7 @@ Graduate of the [RS School](https://rs.school/) JS/Frontend program. I build SPA
 
 **[Swagger Editor App](https://swagger-editor-app-alpha.vercel.app/)** · [code](https://github.com/AlyaEngineer/swagger-editor-app)
 
-OpenAPI editor with a built-in REST client. Team project (3 people), team lead. Requests to external APIs go through a server-side proxy with SSRF protection.
+OpenAPI editor with a built-in REST client.  Requests to external APIs go through a server-side proxy with SSRF protection. Team project (3 people), team lead.
 
 `Next.js 16` `React 19` `TypeScript` `Supabase` `React Hook Form` `Zod` `Vitest` `React Testing Library`
 
