@@ -32,7 +32,7 @@ eCommerce SPA with Commercetools for online shopping: catalog, filters, cart, ch
 `React` `TypeScript` `Tailwind CSS` `shadcn/ui` `Zustand` `Vitest` `React Testing Library`
 
 
-### 🛠 Tech stack
+### Tech stack
 
 - **Core:** TypeScript • JavaScript • HTML • CSS
 - **Frameworks:** React • Next.js
